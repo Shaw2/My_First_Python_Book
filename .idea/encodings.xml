@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/read_n_write_file/guest.txt" charset="x-windows-949" />
+    <file url="file://$PROJECT_DIR$/read_n_write_file/guest_book.txt" charset="x-windows-949" />
+    <file url="file://$PROJECT_DIR$/read_n_write_file/guest_book2.txt" charset="x-windows-949" />
+    <file url="file://$PROJECT_DIR$/read_n_write_file/survey_file.txt" charset="x-windows-949" />
+  </component>
+</project>
